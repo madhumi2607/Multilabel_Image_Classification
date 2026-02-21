@@ -1,4 +1,4 @@
-Multilabel Image Classification – Aimonk Assignment
+Multilabel Image Classification 
 
 This project implements a deep learning based multilabel classification system for fashion images.
 
